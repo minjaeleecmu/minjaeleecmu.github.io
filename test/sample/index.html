@@ -21,11 +21,7 @@ var video_js =  videojs("video", {}, function(){
   adapter.ready();
   console.log(adapter)
   console.log(this)
-  this.on("ready", () =>
-  {
-	  console.log("foo");
-	this.play();
-  });
+  adapter.play();
 });
 console.log(video_js);
 
