@@ -15,11 +15,10 @@
     
 	var video = document.getElementById('video');
 
-videojs("video", {}, function(){
+var video_js =  videojs("video", {}, function(){
   var adapter = new playerjs.VideoJSAdapter(this);
   
   adapter.ready();
-  console.log("foo1");
   console.log(adapter)
   console.log(this)
   this.on("ready", () =>
@@ -27,6 +26,7 @@ videojs("video", {}, function(){
 	  console.log("foo");
 	this.play();
   });
+  console.log(video_js);
 });
 
 
