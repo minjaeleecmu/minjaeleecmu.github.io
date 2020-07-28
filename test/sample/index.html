@@ -20,6 +20,8 @@ videojs("video", {}, function(){
   
   adapter.ready();
   console.log("foo1");
+  console.log(adapter)
+  console.log(this)
   this.on("ready", () =>
   {
 	  console.log("foo");
