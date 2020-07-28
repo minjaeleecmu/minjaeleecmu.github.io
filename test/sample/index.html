@@ -15,16 +15,13 @@
     
 	var video = document.getElementById('video');
 
-var video_js =  videojs("video", {}, function(){
+var video_js =  videojs("video", {autoplay: "muted"}, function(){
   var adapter = new playerjs.VideoJSAdapter(this);
   
   adapter.ready();
 //  console.log(adapter)
 //  console.log(this)
 //	this.play();
-	this.on("ready", function(){
-		console.log("foo");
-	})
 });
 console.log(video_js);
 
