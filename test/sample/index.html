@@ -19,9 +19,10 @@ var video_js =  videojs("video", {}, function(){
   var adapter = new playerjs.VideoJSAdapter(this);
   
   adapter.ready();
-  console.log(adapter)
-  console.log(this)
-  adapter.play();
+//  console.log(adapter)
+//  console.log(this)
+//  adapter.play();
+	this.play();
 });
 console.log(video_js);
 
