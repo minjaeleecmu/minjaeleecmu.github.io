@@ -5,8 +5,7 @@ name = "Minjae Lee";
 current_title = "Co-Founder of Gloovi Inc.";
 summary_part_one = """
 	I finished my Ph.D. in Computer Science from Stanford University in 2018. I was fortunate to be supported by Samsung Scholarship and Max Planck.
-	I received Masters degree from Stanford University in 2017 majoring in Computer Science.
-	I graduated from Carnegie Mellon University in 2012 majoring in Computer Science and minoring in Art.
+	I received my M.S. in Computer Science from Stanford University in 2017, and B.S. in Computer Science from Carnegie Mellon University minoring in Art in 2012.
 """;
 summary_part_two = """
 	I worked at Oculus VR, eBay Inc., Microsoft Corporation, Apple Inc., Samsung SDS in the past.
