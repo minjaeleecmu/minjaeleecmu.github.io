@@ -9,7 +9,7 @@ summary_part_one = """
 	I graduated from Carnegie Mellon University in 2012 majoring in Computer Science and minoring in Art.
 """;
 summary_part_two = """
-	I worked in Oculus VR, eBay Inc., Microsoft Corporation, Apple Inc., Samsung SDS in the past.
+	I worked at Oculus VR, eBay Inc., Microsoft Corporation, Apple Inc., Samsung SDS in the past.
 """;
 summary_part_three = """
 	One of my past projects, EteRNA, was covered in <a href="https://www.nytimes.com/2011/01/11/science/11rna.html">New York Times</a>,
@@ -20,7 +20,7 @@ summary_part_three = """
 """;
 email_address = "mjlgg@alumni.stanford.edu";
 email_display = "mjlgg at alumni dot stanford dot edu";
-etc = "Lives in the Gloovi headquarter";
+etc = "Lives in secret Gloovi headquarter";
 website_url = "https://minjaeleecmu.github.io";
 picture_url = "https://minjaeleecmu.github.io/batman.jpg";
 picture_path = "./batman.jpg";
