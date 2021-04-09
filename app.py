@@ -8,7 +8,7 @@ summary_part_one = """
 	I received my M.S. in Computer Science from Stanford University in 2017, and B.S. in Computer Science from Carnegie Mellon University minoring in Art in 2012.
 """;
 summary_part_two = """
-	I worked at Oculus VR, eBay Inc., Microsoft Corporation, Apple Inc., Samsung SDS in the past.
+	I am currently consulting at Nvidia Corporation. I worked at Oculus VR, eBay Inc., Microsoft Corporation, Apple Inc., Samsung SDS in the past.
 """;
 summary_part_three = """
 	One of my past projects, EteRNA, was covered in <a href="https://www.nytimes.com/2011/01/11/science/11rna.html">New York Times</a>,
